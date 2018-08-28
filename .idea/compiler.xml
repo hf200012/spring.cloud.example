@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="spring-cloud-example-testservice" />
+        <module name="spring-cloud-example-testservice-2" />
+        <module name="spring-cloud-feign-client" />
+        <module name="spring-cloud-ribbon-client" />
+        <module name="spring-cloud-zuul" />
+        <module name="spring.cloud.exapmle" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -6,7 +6,7 @@
 
   <groupId>spring.cloud.exapmle</groupId>
   <artifactId>spring.cloud.exapmle</artifactId>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>eureka-server</module>
@@ -16,6 +16,7 @@
     <module>spring-cloud-ribbon-client</module>
     <module>spring-cloud-feign-client</module>
     <module>spring-cloud-zuul</module>
+      <module>spring-boot-admin</module>
   </modules>
 
   <name>spring.cloud.exapmle</name>

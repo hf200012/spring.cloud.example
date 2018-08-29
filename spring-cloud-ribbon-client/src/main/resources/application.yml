@@ -4,6 +4,10 @@ server:
 spring:
   application:
     name: ribbonclient
+  boot:
+    admin:
+      client:
+        url: http://localhost:8080
 
 eureka:
   client:

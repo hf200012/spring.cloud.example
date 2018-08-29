@@ -8,12 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client" />
         <module name="eureka-server" />
+        <module name="spring-boot-admin" />
         <module name="spring-cloud-example-testservice" />
         <module name="spring-cloud-example-testservice-2" />
         <module name="spring-cloud-feign-client" />
         <module name="spring-cloud-ribbon-client" />
         <module name="spring-cloud-zuul" />
-        <module name="spring.cloud.exapmle" />
       </profile>
     </annotationProcessing>
   </component>
